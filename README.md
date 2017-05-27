@@ -16,7 +16,7 @@
 
 Αχιλλέας Καπετάνιος
 ΑΜ: Π2015201
-Αποθετήριο Κώδικα εφαρμογής στο Github: https://github.com/achkap/twitter-stream-globe
+Αποθετήριο Κώδικα εφαρμογής στο Github: [https://github.com/achkap/twitter-stream-globe](https://github.com/achkap/twitter-stream-globe)
 
 
 Η εφαρμογή στο Heroku: https://moodtonight.herokuapp.com/
