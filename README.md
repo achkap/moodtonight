@@ -132,8 +132,11 @@ hysteria=υστερία, idiocy=ηλιθιότητα, insomnia=αϋπνία, ins
 ## Παραδοτέο 3
 
 Κι εδώ οι αλλαγές έγιναν σε διαφορετικό κλαδί αν και όλες αφορούν το ίδιο αρχείο: το /public/javascripts/TwitterStreamGlobe.js.
-Οι αλλαγές στον κώδικα έχουν επισημανθεί σαν σχόλια στο αρχείο του forked αποθετηρίου, στο κλαδί All-succesful-commits
-Όλα τα επιτυχημένα commits έχουν προστεθεί σε ειδικό κλαδί του αποθετηρίου (All-succesful-commits)
+
+Όλα τα επιτυχημένα commits έχουν προστεθεί σε ειδικό κλαδί του αποθετηρίου [All-succesful-commits](https://github.com/achkap/twitter-stream-globe/tree/All-succesful-commits).
+
+#### Οι αλλαγές στον κώδικα έχουν επισημανθεί σαν σχόλια στο αρχείο του forked αποθετηρίου, στο κλαδί All-succesful-commits. 
+
 
 Για να μπορέσω να αλλάξω την υφή της υδρογείου έπρεπε να προσθέσω εικόνες στο φάκελο
 
