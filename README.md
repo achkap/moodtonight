@@ -208,10 +208,15 @@ hysteria=υστερία, idiocy=ηλιθιότητα, insomnia=αϋπνία, ins
 [https://achkap.github.io/moodtonight/](https://achkap.github.io/moodtonight/)
 
 ### Bonus A - Links for merged commits
+
 [https://github.com/pibook/pibookgr/pull/137](https://github.com/pibook/pibookgr/pull/137)
+
 [https://github.com/pibook/pibookgr/pull/136](https://github.com/pibook/pibookgr/pull/136)
+
 [https://github.com/pibook/pibookgr/pull/134](https://github.com/pibook/pibookgr/pull/134)
-[https://github.com/pibook/pibookgr/pull/132](https://github.com/pibook/pibookgr/pull/134)
+
+[https://github.com/pibook/pibookgr/pull/132](https://github.com/pibook/pibookgr/pull/132)
+
 [https://github.com/pibook/pibookgr/pull/156](https://github.com/pibook/pibookgr/pull/156) (unmerged)
 
 ### Bonus C - Link for case study merged commit
