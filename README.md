@@ -197,7 +197,7 @@ hysteria=υστερία, idiocy=ηλιθιότητα, insomnia=αϋπνία, ins
 ### Βίντεο παρουσίασης εφαρμογής
 Έχει προστεθεί κι ένα βίντεο το οποίο δείχνει την αρχική έκδοση της εφαρμογής και την εφαρμογή όπως έχει γίνει μετά από όλα τα επιτυχημένα commits. 
 
-https://youtu.be/Baq7xVFOM0E
+[Youtube Video](https://youtu.be/Baq7xVFOM0E)
 
 
 
@@ -205,14 +205,14 @@ https://youtu.be/Baq7xVFOM0E
 ## Bonus
 
 ### Σελίδα Τελικής Αναφοράς
-https://achkap.github.io/moodtonight/
+[https://achkap.github.io/moodtonight/](https://achkap.github.io/moodtonight/)
 
 ### Bonus A - Links for merged commits
-https://github.com/pibook/pibookgr/pull/137
-https://github.com/pibook/pibookgr/pull/136
-https://github.com/pibook/pibookgr/pull/134
-https://github.com/pibook/pibookgr/pull/132
-https://github.com/pibook/pibookgr/pull/156 (unmerged)
+[https://github.com/pibook/pibookgr/pull/137](https://github.com/pibook/pibookgr/pull/137)
+[https://github.com/pibook/pibookgr/pull/136](https://github.com/pibook/pibookgr/pull/136)
+[https://github.com/pibook/pibookgr/pull/134](https://github.com/pibook/pibookgr/pull/134)
+[https://github.com/pibook/pibookgr/pull/132](https://github.com/pibook/pibookgr/pull/134)
+[https://github.com/pibook/pibookgr/pull/156](https://github.com/pibook/pibookgr/pull/156) (unmerged)
 
 ### Bonus C - Link for case study merged commit
-https://github.com/pibook/pibookgr/pull/155 (unmerged)
+[https://github.com/pibook/pibookgr/pull/155](https://github.com/pibook/pibookgr/pull/155) (unmerged)
