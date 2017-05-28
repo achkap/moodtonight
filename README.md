@@ -164,17 +164,40 @@ hysteria=υστερία, idiocy=ηλιθιότητα, insomnia=αϋπνία, ins
 
 [https://github.com/achkap/twitter-stream-globe/blob/limit-tweet-region/public/javascripts/TwitterStreamGlobe.js](https://github.com/achkap/twitter-stream-globe/blob/limit-tweet-region/public/javascripts/TwitterStreamGlobe.js)
 
+
+Έγινε ακόμα και η αλλαγή της υφής της υδρογείου ανάλογα με την ώρα της ημέρας. Έτσι όταν η ώρα είναι από τις 07:00 - 19:00 τότε η εικόνα της Γης είναι αυτή που τη δείχνει μέρα, ενώ τις υπόλοιπες ώρες είναι αυτή που τη δείχνει νύχτα.
+
+
+https://github.com/achkap/twitter-stream-globe/blob/daynight/public/javascripts/TwitterStreamGlobe.js
+
+
+## Παραδοτέο 4
+Η αποθήκευση σε σέρβερ δεν κατέστη δυνατό να πραγματοποιηθεί. Η έλλειψη γνώσεων πάνω στο θέμα αυτό δεν επέτρεψαν την υλοιποίηση της παραπάνω οδηγίας.
+Η απεικόνιση σε χάρτη 2D έγινε εν μέρει. Ο χάρτης της Γης άλλαξε από σφαίρα σε επίπεδο αλλά το να φεύγουν οι ακτίνες ακριβώς όπως πρέπει, ήταν δύσκολο να γίνει. Όλες οι αλλαγές έγιναν πάνω στο αρχείο [https://github.com/achkap/twitter-stream-globe/blob/change-earth-2d/public/javascripts/TwitterStreamGlobe.js](https://github.com/achkap/twitter-stream-globe/blob/change-earth-2d/public/javascripts/TwitterStreamGlobe.js) και οι αλλαγές φαίνονται σαν σχόλια στον κώδικα. 
+Το αποτέλεσμα φαίνεται στην παρακάτω εικόνα.
+
+![Screenshot4](screenshot4.jpg)
+
+
+### Βίντεο παρουσίασης εφαρμογής
 Έχει προστεθεί κι ένα βίντεο το οποίο δείχνει την αρχική έκδοση της εφαρμογής και την εφαρμογή όπως έχει γίνει μετά από όλα τα επιτυχημένα commits. 
 
-[Youtube Video](https://youtu.be/Baq7xVFOM0E)
+https://youtu.be/Baq7xVFOM0E
 
 
 
-### Περαιτέρω βελτιώσεις
-1. Να αλλάζει η υδρόγειος ανάλογα με την ώρα. Η υδρόγειος την ημέρα όταν η ώρα είναι από τις 07:00 - 18:00 και η υδρόγειος τη νύχτα όταν η ώρα είναι από τις 18:00 - 06:00
-2. ....
 
-##Παραδοτέο 4
+## Bonus
 
-...
+###Σελίδα Τελικής Αναφοράς
+https://achkap.github.io/moodtonight/
 
+###Bonus A - Links for merged commits
+https://github.com/pibook/pibookgr/pull/137
+https://github.com/pibook/pibookgr/pull/136
+https://github.com/pibook/pibookgr/pull/134
+https://github.com/pibook/pibookgr/pull/132
+https://github.com/pibook/pibookgr/pull/156 (unmerged)
+
+###Bonus C - Link for case study merged commit
+https://github.com/pibook/pibookgr/pull/155 (unmerged)
