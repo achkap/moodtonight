@@ -174,6 +174,7 @@ https://github.com/achkap/twitter-stream-globe/blob/daynight/public/javascripts/
 ## Παραδοτέο 4
 Η αποθήκευση σε σέρβερ δεν κατέστη δυνατό να πραγματοποιηθεί. Η έλλειψη γνώσεων πάνω στο θέμα αυτό δεν επέτρεψαν την υλοιποίηση της παραπάνω οδηγίας.
 Η απεικόνιση σε χάρτη 2D έγινε εν μέρει. Ο χάρτης της Γης άλλαξε από σφαίρα σε επίπεδο αλλά το να φεύγουν οι ακτίνες ακριβώς όπως πρέπει, ήταν δύσκολο να γίνει. Όλες οι αλλαγές έγιναν πάνω στο αρχείο [https://github.com/achkap/twitter-stream-globe/blob/change-earth-2d/public/javascripts/TwitterStreamGlobe.js](https://github.com/achkap/twitter-stream-globe/blob/change-earth-2d/public/javascripts/TwitterStreamGlobe.js) και οι αλλαγές φαίνονται σαν σχόλια στον κώδικα. 
+
 Το αποτέλεσμα φαίνεται στην παρακάτω εικόνα.
 
 ![Screenshot4](screenshot4.jpg)
@@ -189,15 +190,15 @@ https://youtu.be/Baq7xVFOM0E
 
 ## Bonus
 
-###Σελίδα Τελικής Αναφοράς
+### Σελίδα Τελικής Αναφοράς
 https://achkap.github.io/moodtonight/
 
-###Bonus A - Links for merged commits
+### Bonus A - Links for merged commits
 https://github.com/pibook/pibookgr/pull/137
 https://github.com/pibook/pibookgr/pull/136
 https://github.com/pibook/pibookgr/pull/134
 https://github.com/pibook/pibookgr/pull/132
 https://github.com/pibook/pibookgr/pull/156 (unmerged)
 
-###Bonus C - Link for case study merged commit
+### Bonus C - Link for case study merged commit
 https://github.com/pibook/pibookgr/pull/155 (unmerged)
